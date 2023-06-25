@@ -3,7 +3,7 @@
 
 **taha0zkan/taha0zkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Welcome To My GitHub Profile!
+<h1>Welcome To My GitHub Profile!</h1>
 
 I'm Taha, a JR—Software Developer. I am also a computer engineering student
 
