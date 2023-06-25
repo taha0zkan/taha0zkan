@@ -5,7 +5,7 @@
 
 <h1>Welcome To My GitHub Profile!</h1>
 
-I'm Taha, a JR—Software Developer. I am also a computer engineering student
+<h1>I'm Taha, a JR—Software Developer. I am also a computer engineering student</h1>
 
 Here are some ideas to get you started:
 
